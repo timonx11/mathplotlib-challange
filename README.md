@@ -1,2 +1,2 @@
-# mathplotlib-challange
-Module 5 Assignment / Challange
+# mathplotlib-challenge
+Module 5 Assignment / Challenge
