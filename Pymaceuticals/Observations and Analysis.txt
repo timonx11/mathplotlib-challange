@@ -1,0 +1,9 @@
+1. Based on the summary statistics, figures and tables generated for the drug regiment of interest, 
+Ramicane seems to have the most positive results out of all with Capomulin on the close second.
+
+2. Also based on the four Drug Regimen of interest, Infubinol is the only one having a potetial outliers (1).
+
+3. Lastly, based on the average tumour volume and mouse weight, 
+seems that mouse weight will have an strong impact on the tumour volume. 
+as the Scatterplot showing a strong positive correlation (0.83).
+so the heavier the mice, the drug will have less impact
