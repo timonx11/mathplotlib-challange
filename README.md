@@ -1,7 +1,7 @@
 # mathplotlib-challenge
 Module 5 Assignment / Challenge
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-PLEASE REFER TO Pymacheuticals folder for the main jupiter notebook file and the observation/analysis.
+PLEASE REFER TO Pymaceuticals folder for the main jupiter notebook file and the observation/analysis.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 What good is data without a good plot to tell the story?
